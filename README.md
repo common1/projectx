@@ -1,6 +1,8 @@
 # projectx
 
+## Install go
 
+sudo apt install golang-go
 
 ## See also
 
@@ -13,4 +15,5 @@ https://www.youtube.com/watch?v=oCm46sUILcs&list=PL0xRBLFXXsP6-hxQmCDcl_BHJMm0mh
 go mod init github.com/common1/projectx
 make run
 
-Current: 1.3:32
+Current: 1.6:12
+
