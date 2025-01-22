@@ -15,5 +15,5 @@ https://www.youtube.com/watch?v=oCm46sUILcs&list=PL0xRBLFXXsP6-hxQmCDcl_BHJMm0mh
 go mod init github.com/common1/projectx
 make run
 
-Current: 1.6:12
+Current: 1.8:35
 
